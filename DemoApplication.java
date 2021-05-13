@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.bdfhbfibdfbjspringframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-import org.springedfframework.web.bind.annotation.RestController;
+import org.sperfgdfsringedfframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 @RestController
